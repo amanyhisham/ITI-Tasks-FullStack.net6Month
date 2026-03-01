@@ -1,0 +1,60 @@
+<html>
+<head>
+  <title>Simple Form</title>
+
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    form {
+      border: 1px solid rgb(189, 185, 185);
+      padding: 15px;
+      width: 250px;
+    }
+
+    label {
+      display: block;
+      margin-top: 8px;
+    }
+
+    input {
+      width: 100%;
+      margin-top: 4px;
+    }
+
+    input[type="submit"] {
+      margin-top: 10px;
+    }
+  </style>
+
+</head>
+
+<body>
+
+<form  method="get">
+  <label for="name" >Name</label>
+  <input type="text" id="name" name="name" >
+
+  <label for="password">Password</label>
+  <input type="password" id="password" name="password"  >
+
+<input type="submit" value="Submit" onclick="return validation()">
+</form>
+
+<script>
+function validation() {
+   let res=confirm("Are You sure to send data..?");
+   if(res){
+    return true;
+   }
+   else{
+    return false;
+   }
+}
+</script>
+</body>
+</html>

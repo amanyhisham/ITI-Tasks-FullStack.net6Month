@@ -1,0 +1,59 @@
+<html>
+<head>
+  <title>Simple Form</title>
+<style>
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   }
+
+  form {
+    border: 1px solid #000;  
+    padding: 20px;
+  }
+
+  div {
+    margin-bottom: 15px;  
+  }
+
+  label, input {
+     width: 100%;
+  }
+
+</style>
+
+</head>
+
+<body>
+ <form id="myform">
+    <div class="form">
+        <label id="email">Email :</label>
+        <input type="text" for="email" name="email" id="emailInput">
+    </div>
+    <div>
+         <label id="Password">Password :</label>
+        <input type="password" for="Password" name="Password" id="passwordInput">
+    </div>
+  </form>
+</body>
+<script>
+let form=document.getElementById("myform");
+const custEvent=new Event('custEvent');
+let timer=setTimeout(()=>{
+    let email=document.getElementById('emailInput').value;
+    let pass=document.getElementById('passwordInput').value;
+    if(email===""&&pass==="")
+{
+    form.dispatchEvent(custEvent);
+}
+},3000);
+form.addEventListener('custEvent',()=>{
+    alert("user has not entered any data after 30s. ");
+});
+form.addEventListener('input',()=>{
+    alert("user has entered data.... ");
+});
+</script>
+</html>

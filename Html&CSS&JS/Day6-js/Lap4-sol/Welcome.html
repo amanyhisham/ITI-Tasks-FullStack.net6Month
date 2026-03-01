@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script>
+        let querystring=location.search;
+        console.log(querystring);
+        let parts = querystring.split("?");
+        let part=parts[1].split("&");//[name:value,gamil:v,]
+        let name =part[0].split('=');//name[1]=>[name,amany]
+        let Email =part[1].split('=');//[gamil,a@gail.cpm]
+        let pass =part[2].split('=');
+        let jop =part[3].split('=');
+        let mobile =part[4].split('=');
+        let address =part[5].split('=');
+        let gender =part[6].split('=');
+         console.log(Email[1].replace('%','@'));
+         document.write(`
+         <h1 style="text-align: center;">Welcome Page</h1>
+        <div class="user-info">
+  Hello ya : ${name[1].replace('+',' ')} <br>
+  Your Email is : ${Email[1].replace('%','@')} <br>
+  And your Pass is:  ${pass[1]} <br>
+  And your Job is : ${jop[1]} <br>
+  And your Mobile is : ${mobile[1]} <br>
+  And your Gender is : ${gender[1]} <br>
+  And your Address is : ${address[1]}
+</div>
+<div id="gender-img" style="text-align:center; margin-top:20px;"></div>
+
+       `)
+       function Img_Gender(){
+            let imgDiv = document.getElementById("gender-img");
+            let userGender = gender[1];
+          //  console.log(userGender, gender[1]);
+        if(userGender=="female")
+       {
+      imgDiv.innerHTML= `<img src="img/Girl.jpg" alt="Girl" width="150">`;
+       }
+       else  {
+        imgDiv.innerHTML= `<img src="img/Boy.jpg" alt="Girl" width="150">`;
+       }
+       }
+      Img_Gender() 
+//userEngine
+let website=window.navigator.userAgent;
+console.log(website);
+if(website.includes("Edg")||website.includes("FireFox")){
+         alert("For best experience, please use Google Chrome browser.");
+
+}
+else{
+    alert("You use Safa Website");
+}
+
+       
+    </script>
+      <style>
+        .user-info {
+    width: 400px;               
+    margin: 20px auto;           
+    padding: 20px;               
+    border: 1px solid #ccc;     
+    border-radius: 8px;          
+    background-color: #f9f9f9;  
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.6;          
+}
+.user-info br {
+    margin-bottom: 5px;
+}
+
+    </style>
+</head>
+<body>
+
+ </body>
+</html>

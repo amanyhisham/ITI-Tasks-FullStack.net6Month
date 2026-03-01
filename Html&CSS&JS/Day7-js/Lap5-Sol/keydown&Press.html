@@ -1,0 +1,27 @@
+<html>
+<head>
+  <title>Key Difference</title>
+
+</head>
+
+<body>
+  <h3>Press Ctrl, Alt, Shift, or any letter/number to see the difference</h3>
+<p>Output : </p>
+<div id="res"></div>
+<div id="res2"></div>
+</body>
+ <script>
+    let res=document.getElementById('res');
+    let res2=document.getElementById('res2');
+
+    document.addEventListener("keydown",function(event){
+        res.innerHTML +=`keydown is = ${event.key} <br><br>`
+
+    }
+     
+)
+document.addEventListener("keypress",function(event){
+    res2.innerHTML +=`keypress is = ${event.key} <br><br> `
+})
+ </script>
+</html>

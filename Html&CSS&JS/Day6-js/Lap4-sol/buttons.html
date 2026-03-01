@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buttons</title>
+</head>
+<body>
+  
+
+  
+  <input type="button" value="1" onclick="addVal(this)">
+  <input type="button" value="2" onclick="addVal(this)">
+  <input type="button" value="3" onclick="addVal(this)">
+  <input type="button" value="4" onclick="addVal(this)">
+  <input type="button" value="5" onclick="addVal(this)">
+  <input type="button" value="6" onclick="addVal(this)">
+  <input type="button" value="7" onclick="addVal(this)">
+  <input type="button" value="8" onclick="addVal(this)">
+  <input type="button" value="9" onclick="addVal(this)">
+  <input type="text" id="txt">
+  <input type="button" value="C" onclick="clearTxt()">
+  <input type="button" value="<<" onclick="shift()">
+
+
+
+  <script>
+
+    function addVal(inputVall){       
+        document.querySelector('#txt').value += inputVall.value
+    }
+function clearTxt(){
+   document.querySelector('#txt').value = "";
+}
+
+function shift(){
+   let txt = document.querySelector('#txt');
+  let element= txt.value.slice(0, -1);
+  txt.value=element;
+}
+     
+
+  </script>
+
+
+</body>
+</html>

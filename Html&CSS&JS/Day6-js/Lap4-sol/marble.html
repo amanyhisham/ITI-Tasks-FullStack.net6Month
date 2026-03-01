@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>marbles</title>
+  <style>
+    body{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+         height: 100vh;
+         margin: auto;
+    }
+  </style>
+</head>
+<body >
+
+  <img src="marble/marble1.jpg" id="img1" onmouseover="change(this)" onmouseout="back(this)">
+  <img src="marble/marble1.jpg"  id="img2" onmouseover="change(this)"  onmouseout="back(this)">
+  <img src="marble/marble1.jpg"  id="img3" onmouseover="change(this)"  onmouseout="back(this)">
+  <img src="marble/marble1.jpg"  id="img4" onmouseover="change(this)" onmouseout="back(this)">
+
+
+</body>
+<script>
+ function change(img){
+  img.src = "marble/marble3.jpg";
+}
+function back(img){
+     img.src = "marble/marble1.jpg";
+}
+ </script>
+</html>

@@ -1,0 +1,41 @@
+<html>
+<head>
+  <title>Key Difference</title>
+
+</head>
+
+<body>
+  <h3>Press Ctrl, Alt, Shift, or any letter/number to see the difference</h3>
+<p>Output : </p>
+<div id="res"></div>
+<div id="res2"></div>
+ 
+</body>
+ <script>
+    let res=document.getElementById('res');
+    let res2=document.getElementById('res2');
+ 
+    document.addEventListener("keydown",function(event){
+         res.innerHTML +=`Character is = ${event.key}   <br><br>`;
+        res2.innerHTML +=`physical key pressed is = ${event.code}<br><br>`
+         console.log("Code:", event.code);
+        console.log("Key:", event.key);
+    }
+ 
+     
+)
+document.addEventListener("keydown", function(event){
+
+    if (event.ctrlKey || event.altKey) {
+        event.preventDefault();
+        alert("This key combination is disabled!");
+        
+    }
+
+});
+
+
+ 
+
+ </script>
+</html>

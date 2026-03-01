@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lap4</title>
+    <style>
+  
+ .register-form{
+    padding: 20px;
+    margin: 50px auto;
+    border: 1px solid #ccc;
+    width: 500px;
+ }
+
+.register-form label{
+    display: inline-block;
+    width: 120px;   
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.register-form input[type="text"],
+.register-form input[type="email"],
+.register-form input[type="password"] {
+    width: 60%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #aaa;
+}
+
+.register-form input[type="radio"] {
+    margin-left: 5px;
+}
+
+.register-form button[type="submit"] {
+    margin-left: 200px;  
+    padding: 8px 20px;
+}
+
+
+    </style>
+</head>
+<body>
+    <button onclick="ShowMassge()">Show Massage</button>
+    <script src="script.js"></script>
+    <br>
+    <br>
+       <form action="welcome.html" method="get" class="register-form">
+
+    <label for="name">Name</label>
+    <input type="text" id="name" name="name">
+
+    <br>
+
+    <label for="email">Email</label>
+    <input type="email" id="email" name="email">
+
+    <br>
+
+    <label for="password">Password</label>
+    <input type="password" id="password" name="password">
+
+    <br>
+
+    <label for="job">Job</label>
+    <input type="text" id="job" name="job">
+
+    <br>
+
+    <label for="mobile">Mobile</label>
+    <input type="text" id="mobile" name="mobile">
+
+    <br>
+
+    <label for="address">Address</label>
+    <input type="text" id="address" name="address">
+
+    <br>
+
+Gender:
+  <input type="radio" name="gender" value="female"> Female
+  <input type="radio" name="gender" value="male"> Male
+
+    <br><br>
+
+   <button type="submit" >Register</button>
+
+</form>
+
+   
+</body>
+</html>
