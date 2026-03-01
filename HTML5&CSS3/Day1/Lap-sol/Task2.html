@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task2</title>
+    <style>
+        body{
+            
+        width: 600px;  
+        margin: auto; 
+        margin-top: 100px;
+    }
+    
+    </style>
+</head>
+<body>
+ <div>
+    <label>Red</label>
+    <input type="range" min="0" max="255" id="Red" value="0">
+    <br>
+    <label>Green</label>
+    <input type="range" min="0" max="255" id="Green" value="0">
+    <br>
+    <label>Blue</label>
+    <input type="range" min="0" max="255" id="Blue" value="0">
+ </div>
+ <h3 id="colortext"> Change my Color Text!</h3>
+ <script>
+    let Red=document.getElementById('Red');
+    let Green=document.getElementById('Green');
+    let Blue=document.getElementById('Blue');
+    let colortext=document.getElementById('colortext');
+
+function updatacolor(){
+    let r=Red.value;
+    let g=Green.value;
+    let b=Blue.value;
+colortext.style.color=`rgb(${r}, ${g}, ${b})`;
+}
+Red.addEventListener('input',updatacolor);
+Green.addEventListener('input',updatacolor);
+Blue.addEventListener('input',updatacolor);
+
+ </script>
+</body>
+</html>

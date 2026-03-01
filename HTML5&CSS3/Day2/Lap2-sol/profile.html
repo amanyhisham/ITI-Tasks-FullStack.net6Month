@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Result Register</title>
+</head>
+<body>
+<img id="genderImg" ><br><br>
+<p id="welcomeLine">Welcome <span id="userName"></span> you visited this site <span id="visitsCountSpan"></span> Times :) </p>
+  
+
+
+ <script>
+ let name=localStorage.getItem("Name");
+ let color=localStorage.getItem("Color");
+ let gender=localStorage.getItem("Gender");
+
+let img=document.getElementById('genderImg');
+if (gender === 'male') {
+  img.src = "Male.jpeg";
+} else if (gender === 'female') {
+  img.src = "Female.jpg";
+}
+/////////////////////////////////////////////////////
+
+let username=document.getElementById('userName');
+username.textContent = name; 
+username.style.color = color;
+
+
+
+let VisitsCount=localStorage.getItem("visits");
+  
+if(VisitsCount===null|| isNaN(VisitsCount))
+{VisitsCount=1;}
+else{
+    VisitsCount=Number(VisitsCount)+1;//+=1
+}
+ 
+localStorage.setItem("visits", VisitsCount);
+
+let visitsCountSpan=document.getElementById('visitsCountSpan');
+visitsCountSpan.textContent = VisitsCount; 
+visitsCountSpan.style.color = color;
+</script>
+</body>
+</html>

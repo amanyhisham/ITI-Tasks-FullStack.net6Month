@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+    <style>
+       
+.Vedio video{
+     width: 100%;    
+    height: auto;   
+    display: block;
+}
+  
+    .Vedio {
+        width: 600px;  
+        margin: auto; 
+    }
+  #Range-vedio {
+    width: 83%;
+}
+    </style>
+</head>
+<body>
+  <div class="Vedio">
+    <video src="Media/Mouse.mp4" id="myVideo" poster="Media/Mouse.jpg"></video>
+    
+    <form>
+        <div class="Rang">
+            <input type="range" id="Range-vedio" min="0" max="143" step="0.1" value="0" oninput="RangeVedioo()" >
+            <span  id="currentTime">0:00</span> / <span id="duration">0:00</span>
+       </div>
+       <button type="button" id="play" onclick="playVideo()">Play</button>
+       <button type="button" id="stop" onclick="stopVideo()">Stop</button>
+       <button type="button" id="Back10" onclick="Back10Sec()"><<</button>
+       <button type="button" id="Back5" onclick="Back5Sec()"><</button>
+       <input type="range"   id="Volumbtn" min="0" max="1" step="0.1" value="0.4" oninput="VolumVideo()">
+       <button type="button" id="Forward5" onclick="forward5Sec()">></button>
+       <button type="button" id="forward10" onclick="forward10Sec()">>></button>
+       <button type="button" id="mute" onclick="muteVideo()">Mute</button>
+       <div class="speed">
+            <label>Speed </label>
+            <input  type="range" id="speedRange" min="1" max="16" step="1" value="1" oninput="speedvideo()">
+       </div>
+    </form>
+  </div>
+  <script>
+ let video=document.getElementById('myVideo');
+ let RangeVedio=document.getElementById('Range-vedio')
+ let currentTime=document.getElementById('currentTime');
+ let duration=document.getElementById('duration');
+ let volumeRange=document.getElementById('Volumbtn');
+ let speedRange=document.getElementById('speedRange');
+ function formattime(time){
+    let minute=Math.floor(time/60);
+    let sec=Math.floor(time%60);
+    if(sec<10) sec='0'+sec;
+    if(minute<10) minute='0'+minute;
+    return  `${minute}:${sec}`
+ }
+ function playVideo(){video.play();}
+  function stopVideo(){video.pause();}
+ function Back10Sec(){ video.currentTime -= 10;}
+ function Back5Sec(){ video.currentTime -= 5;}
+ function forward5Sec(){ video.currentTime +=5;}
+ function forward10Sec(){ video.currentTime += 10;}
+function muteVideo(){ video.muted = !video.muted;}
+function RangeVedioo(){video.currentTime =RangeVedio.value}
+
+video.addEventListener('loadedmetadata',()=>{
+  RangeVedio.max  =video.duration
+  duration.textContent=formattime(video.duration)
+});
+
+video.addEventListener('timeupdate',()=>{
+    RangeVedio.value=video.currentTime 
+  currentTime.textContent=formattime(video.currentTime)
+});
+video.addEventListener('input',()=>{
+     video.currentTime =RangeVedio.value
+  currentTime.textContent=formattime(video.currentTime)
+});
+
+function VolumVideo(){ video.volume = volumeRange.value; }
+function speedvideo(){ video.playbackRate = speedRange.value; }
+
+
+</script>
+</body>
+</html>

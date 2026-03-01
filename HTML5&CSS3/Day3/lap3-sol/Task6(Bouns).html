@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task6(Bouns)</title>
+    <style>
+        .circle {
+       width: 120px;
+       height: 120px;
+       border-radius: 50%;
+       background:red;
+        }
+    .pacman {
+      width: 0px;
+      height: 0px;
+      border-right: 60px solid transparent;
+      border-top: 60px solid red;
+      border-left: 60px solid red;
+      border-bottom: 60px solid red;
+      border-top-left-radius: 60px;
+      border-top-right-radius: 60px;
+      border-bottom-left-radius: 60px;
+      border-bottom-right-radius: 60px;
+      display: none;
+    }
+  
+        .circle:hover {
+         display:none;
+        }
+        .circle:hover + .pacman {
+  display: block;
+}
+</style>
+</head>
+<body>
+<div class="circle"></div>
+<div class="pacman"></div>
+ 
+ </body>
+</html>

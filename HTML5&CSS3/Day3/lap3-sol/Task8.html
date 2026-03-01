@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task8</title>
+    <style>
+       
+ 
+  .card{
+            border:4px solid red;
+            border-radius: 30px;
+            width:250px;
+            height: 400px;
+            padding:10px 20px;
+            margin:20px;
+            margin-top: 10%;
+            margin-left: 40%;
+            position: relative;
+        }
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 29px;
+}
+.top-left{
+    position: absolute; 
+    top:10px;
+    left: 20px;
+ }
+.bottom-right{
+     position: absolute; 
+    bottom:10px;
+    right: 20px;
+}
+ 
+.shap{
+    position: absolute;
+    top: 130px;
+    left: 85px;
+    width: 100px;
+    height: 90px;
+    transform: rotate(180deg);  
+}
+.shap::before,
+.shap::after{
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 80px;
+    background: black;
+    border-radius: 50px 50px 0 0;
+}
+
+.shap::before{
+    left: 50px;
+    transform: rotate(-45deg);
+    transform-origin: 0 100%;
+}
+
+.shap::after{
+    left: 0;
+    transform: rotate(45deg);
+    transform-origin: 100% 100%;
+}
+
+
+
+
+
+.triangle{
+    position: absolute;
+    top: 200px;   
+    left: 116px;   
+    width: 0;
+    height: 0;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 40px solid black;
+    transform: rotate(180deg); 
+}
+ 
+ 
+    </style>
+</head>
+<body>
+    <div class="card">
+        <p class="top-left">A</p>
+        <div class="shap"></div>
+        <div class="triangle"></div>
+        <p class="bottom-right">A</p>
+    </div>
+</body>
+</html>

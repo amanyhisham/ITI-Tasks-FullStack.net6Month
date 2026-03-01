@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register page</title>
+</head>
+<body>
+    <label for="name">Enter Your Name</label>
+    <input type="text" id="name"><br><br>
+     <label for="age">Enter Your Age</label>
+    <input type="text" id="age"><br><br>
+    <label>Select Your Gender :</label><br><br>
+    <label>
+         <input type="radio" name="gender" value="male">  
+      <img src="Male.jpeg" alt="male">
+    </label>
+
+     <label>
+         <input type="radio" name="gender" value="female"> 
+     <img src="Female.jpg" alt="female">
+     </label>
+  <br><br>
+  <label>Select Your Favourite Color:</label>
+  <select id="color">
+        <option>Red</option>
+        <option>Green</option>
+        <option>Blue</option>
+        <option>Yellow</option>
+        <option>black</option>
+        <option>brown</option>
+        </select><br><br>
+
+<button onclick="register()">Register</button>
+
+<script>
+function register() {
+
+let name=document.getElementById('name').value;
+let age=document.getElementById('age').value;
+let gender = document.querySelector('input[name="gender"]:checked');
+let selectedGender = gender ? gender.value : "Not selected";
+let color=document.getElementById('color').value;
+
+localStorage.setItem("Name",name);
+localStorage.setItem("Age",age);
+localStorage.setItem("Gender",selectedGender);
+localStorage.setItem("Color",color);
+
+localStorage.removeItem("visits");//
+
+window.location.href = "profile.html";
+}
+</script>
+</body>
+</html>
