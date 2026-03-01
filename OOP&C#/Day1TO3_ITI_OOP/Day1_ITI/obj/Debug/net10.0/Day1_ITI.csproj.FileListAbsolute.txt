@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\bin\Debug\net10.0\Day1_ITI.exe
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\bin\Debug\net10.0\Day1_ITI.deps.json
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\bin\Debug\net10.0\Day1_ITI.runtimeconfig.json
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\bin\Debug\net10.0\Day1_ITI.dll
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\bin\Debug\net10.0\Day1_ITI.pdb
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.AssemblyInfo.cs
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.dll
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\refint\Day1_ITI.dll
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.pdb
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\Day1_ITI.genruntimeconfig.cache
+C:\Users\dell\source\repos\Day1_ITI\Day1_ITI\obj\Debug\net10.0\ref\Day1_ITI.dll

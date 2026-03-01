@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\bin\Debug\net10.0\Day6_ITI_OOP.exe
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\bin\Debug\net10.0\Day6_ITI_OOP.deps.json
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\bin\Debug\net10.0\Day6_ITI_OOP.runtimeconfig.json
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\bin\Debug\net10.0\Day6_ITI_OOP.dll
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\bin\Debug\net10.0\Day6_ITI_OOP.pdb
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.AssemblyInfo.cs
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.dll
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\refint\Day6_ITI_OOP.dll
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.pdb
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\Day6_ITI_OOP.genruntimeconfig.cache
+C:\Users\dell\source\repos\Day6_ITI_OOP\Day6_ITI_OOP\obj\Debug\net10.0\ref\Day6_ITI_OOP.dll

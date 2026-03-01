@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|c:\\users\\dell\\source\\repos\\day5_iti_oop\\day5_iti_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|solutionrelative:day5_iti_oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|c:\\users\\dell\\source\\repos\\day5_iti_oop\\day5_iti_oop\\dynamicstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|solutionrelative:day5_iti_oop\\dynamicstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|c:\\users\\dell\\source\\repos\\day5_iti_oop\\day5_iti_oop\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|solutionrelative:day5_iti_oop\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|c:\\users\\dell\\source\\repos\\day5_iti_oop\\day5_iti_oop\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EEFDAA5-9F36-97D1-A32F-79FDB93374F0}|Day5_ITI_OOP\\Day5_ITI_OOP.csproj|solutionrelative:day5_iti_oop\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Queue.cs",
+              "RelativeDocumentMoniker": "Day5_ITI_OOP\\Queue.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Queue.cs",
+              "RelativeToolTip": "Day5_ITI_OOP\\Queue.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:40:58.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Complex.cs",
+              "RelativeDocumentMoniker": "Day5_ITI_OOP\\Complex.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Complex.cs",
+              "RelativeToolTip": "Day5_ITI_OOP\\Complex.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T12:00:53.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DynamicStack.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\DynamicStack.cs",
+              "RelativeDocumentMoniker": "Day5_ITI_OOP\\DynamicStack.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\DynamicStack.cs",
+              "RelativeToolTip": "Day5_ITI_OOP\\DynamicStack.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwD0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:58:58.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Day5_ITI_OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\source\\repos\\Day5_ITI_OOP\\Day5_ITI_OOP\\Program.cs",
+              "RelativeToolTip": "Day5_ITI_OOP\\Program.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwGEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T21:24:21.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
