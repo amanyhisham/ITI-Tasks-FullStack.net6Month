@@ -1,31 +1,81 @@
-# ITI 6-Month Full Stack .NET Course
+# Full Stack .NET – 6 Month Learning Journey 🚀
 
-This repository contains my projects, exercises, and resources for the **ITI 6-Month Full Stack .NET training**.
+This repository documents my **6-month learning journey in the Full Stack .NET program**.
+It contains my **assignments, solutions, practice tasks, and projects** completed during the training.
 
-## 📂 Contents
+The goal of this repository is to track my progress while learning different technologies required to become a **Full Stack .NET Developer**.
 
-- **Day1, Day2, …**: Daily exercises and labs
-- **Projects**: Mini projects and assignments
-- **Videos**: Recorded lessons and tutorials (handled with Git LFS)
-- **SQL**: Database exercises and solutions
-- **.NET**: Backend projects and code examples
-- **React/Frontend**: Frontend practice and small applications
+---
 
-## ⚡ Features
+## 📚 Topics Covered
 
-- Organized by day and topic
-- Includes both **code and media files** (videos handled by Git LFS)
-- Useful for reviewing lessons and practicing full stack development
+During this program, I study and practice several important areas in software development, including:
 
-## 🛠 Tools & Tech
+* **C# Programming**
+* **Object Oriented Programming (OOP)**
+* **Data Structures**
+* **Algorithms**
+* **Database Concepts**
+* **SQL Server**
+* **Backend Development using .NET**
+* **Problem Solving**
+* **Software Development Best Practices**
 
-- **Backend**: .NET, C#
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Database**: SQL Server
-- **Version Control**: Git + GitHub + Git LFS for large files
+---
 
-## 📌 Notes
+## 🗂 Repository Structure
 
-- Some files are large videos, tracked with Git LFS
-- Always pull the latest updates to stay up-to-date with exercises
-- This repo is mainly for personal learning and reference
+The repository is organized into folders according to the topics and lectures.
+Each folder may contain:
+
+* 📄 Assignments
+* ✅ My solutions
+* 🧪 Practice exercises
+* 💻 Small projects
+* 📝 Notes or explanations
+
+---
+
+## 🧠 What I Upload Here
+
+In this repository, I regularly upload:
+
+* Daily **assignments**
+* My **solutions to the assignments**
+* **Practice problems**
+* **Course projects**
+* Any **useful notes or experiments**
+
+This helps me track my learning progress and keep all my work organized.
+
+---
+
+## 🛠 Tools & Technologies
+
+Some of the tools and technologies used in this program include:
+
+* **C#**
+* **.NET**
+* **SQL Server**
+* **Visual Studio**
+* **Git & GitHub**
+
+---
+
+## 🎯 Purpose of This Repository
+
+* Track my **learning progress**
+* Practice **clean coding**
+* Improve **problem solving skills**
+* Build a **portfolio of projects**
+* Keep all assignments and projects organized
+
+---
+
+## 👩‍💻 Author
+
+**Amany Hisham**
+Computer Science Graduate
+Software Engineer
+Full Stack .NET Trainee
+ This repo is mainly for personal learning and reference
