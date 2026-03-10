@@ -1,0 +1,15 @@
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\bin\Debug\net10.0\Data-Structer-Day1-Lap1.exe
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\bin\Debug\net10.0\Data-Structer-Day1-Lap1.deps.json
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\bin\Debug\net10.0\Data-Structer-Day1-Lap1.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\bin\Debug\net10.0\Data-Structer-Day1-Lap1.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\bin\Debug\net10.0\Data-Structer-Day1-Lap1.pdb
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\refint\Data-Structer-Day1-Lap1.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.pdb
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\ref\Data-Structer-Day1-Lap1.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.sourcelink.json

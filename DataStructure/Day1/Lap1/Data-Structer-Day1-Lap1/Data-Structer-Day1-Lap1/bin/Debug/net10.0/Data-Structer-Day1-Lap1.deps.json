@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Data-Structer-Day1-Lap1/1.0.0": {
+        "runtime": {
+          "Data-Structer-Day1-Lap1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data-Structer-Day1-Lap1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
