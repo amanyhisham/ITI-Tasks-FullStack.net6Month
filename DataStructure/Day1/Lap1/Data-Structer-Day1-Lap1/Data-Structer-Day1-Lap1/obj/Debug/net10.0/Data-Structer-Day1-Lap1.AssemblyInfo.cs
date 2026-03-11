@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Data-Structer-Day1-Lap1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6de7c2499385f6c8901432f6f63e0a689cc94b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Data-Structer-Day1-Lap1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Data-Structer-Day1-Lap1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

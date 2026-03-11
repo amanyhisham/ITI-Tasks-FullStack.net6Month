@@ -12,4 +12,3 @@ D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-La
 D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.pdb
 D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.genruntimeconfig.cache
 D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\ref\Data-Structer-Day1-Lap1.dll
-D:\Courses\ITI6Month-FullStack.net\DataStructure\Day1\Lap1\Data-Structer-Day1-Lap1\Data-Structer-Day1-Lap1\obj\Debug\net10.0\Data-Structer-Day1-Lap1.sourcelink.json

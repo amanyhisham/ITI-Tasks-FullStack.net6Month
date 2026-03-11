@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|solutionrelative:data-structer-day1-lap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day1\\lap1\\data-structer-day1-lap1\\data-structer-day1-lap1\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|solutionrelative:data-structer-day1-lap1\\queue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day1\\lap1\\data-structer-day1-lap1\\data-structer-day1-lap1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|solutionrelative:data-structer-day1-lap1\\stack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day1\\lap1\\data-structer-day1-lap1\\data-structer-day1-lap1\\double linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{401B21C2-F817-03CF-4F99-CDCD841A1527}|Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1.csproj|solutionrelative:data-structer-day1-lap1\\double linked list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,7 +44,7 @@
               "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Program.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Program.cs",
               "RelativeToolTip": "Data-Structer-Day1-Lap1\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwCUAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAmwEsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T00:30:13.264Z",
               "IsPinned": true,
@@ -45,38 +53,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Queue.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Queue.cs",
+              "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Queue.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Queue.cs",
+              "RelativeToolTip": "Data-Structer-Day1-Lap1\\Queue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:09:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Stack.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Stack.cs",
+              "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Stack.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Stack.cs",
+              "RelativeToolTip": "Data-Structer-Day1-Lap1\\Stack.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T04:53:58.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Double Linked list.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Double Linked list.cs",
               "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Double Linked list.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Double Linked list.cs",
               "RelativeToolTip": "Data-Structer-Day1-Lap1\\Double Linked list.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAIwJEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T02:51:24.208Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Employee.cs",
               "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Employee.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Employee.cs",
               "RelativeToolTip": "Data-Structer-Day1-Lap1\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T02:26:32.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Node.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Node.cs",
               "RelativeDocumentMoniker": "Data-Structer-Day1-Lap1\\Node.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day1\\Lap1\\Data-Structer-Day1-Lap1\\Data-Structer-Day1-Lap1\\Node.cs",
               "RelativeToolTip": "Data-Structer-Day1-Lap1\\Node.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T02:34:10.709Z",
               "EditorCaption": ""
