@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day4-ds\u0026alogrithm\\lap4\\lap4-ds\u0026alogrithms\\lap4-ds\u0026alogrithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|solutionrelative:lap4-ds\u0026alogrithms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day4-ds\u0026alogrithm\\lap4\\lap4-ds\u0026alogrithms\\lap4-ds\u0026alogrithms\\employeeupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|solutionrelative:lap4-ds\u0026alogrithms\\employeeupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|d:\\courses\\iti6month-fullstack.net\\datastructure\\day4-ds\u0026alogrithm\\lap4\\lap4-ds\u0026alogrithms\\lap4-ds\u0026alogrithms\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473E6FDC-1D99-421E-8FF1-A9ABA2128820}|Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms.csproj|solutionrelative:lap4-ds\u0026alogrithms\\doublelinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\Program.cs",
+              "RelativeDocumentMoniker": "Lap4-Ds\u0026Alogrithms\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\Program.cs",
+              "RelativeToolTip": "Lap4-Ds\u0026Alogrithms\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAYwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T02:34:57.388Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DoubleLinkedList.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\DoubleLinkedList.cs",
+              "RelativeDocumentMoniker": "Lap4-Ds\u0026Alogrithms\\DoubleLinkedList.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\DoubleLinkedList.cs*",
+              "RelativeToolTip": "Lap4-Ds\u0026Alogrithms\\DoubleLinkedList.cs*",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAcwK8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T06:28:19.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeUpdata.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\EmployeeUpdata.cs",
+              "RelativeDocumentMoniker": "Lap4-Ds\u0026Alogrithms\\EmployeeUpdata.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\DataStructure\\Day4-DS\u0026Alogrithm\\Lap4\\Lap4-Ds\u0026Alogrithms\\Lap4-Ds\u0026Alogrithms\\EmployeeUpdata.cs",
+              "RelativeToolTip": "Lap4-Ds\u0026Alogrithms\\EmployeeUpdata.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T02:56:09.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

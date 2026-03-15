@@ -1,0 +1,14 @@
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\bin\Debug\net10.0\Lap4-Ds&Alogrithms.exe
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\bin\Debug\net10.0\Lap4-Ds&Alogrithms.deps.json
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\bin\Debug\net10.0\Lap4-Ds&Alogrithms.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\bin\Debug\net10.0\Lap4-Ds&Alogrithms.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\bin\Debug\net10.0\Lap4-Ds&Alogrithms.pdb
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\refint\Lap4-Ds&Alogrithms.dll
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.pdb
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\Lap4-Ds&Alogrithms.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\DataStructure\Day4-DS&Alogrithm\Lap4\Lap4-Ds&Alogrithms\Lap4-Ds&Alogrithms\obj\Debug\net10.0\ref\Lap4-Ds&Alogrithms.dll
