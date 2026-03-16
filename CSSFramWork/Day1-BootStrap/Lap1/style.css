@@ -1,0 +1,21 @@
+
+/*mobile first*/
+.class1,.class2,.class3{
+           background-color: brown; 
+    padding: 20px;
+    margin: 20px;
+    color: white;
+    text-align: center;
+        }
+        /*tablet*/
+      @media (min-width: 789px) and (max-width: 991px) {
+    .class1, .class2, .class3 {
+        background-color: rgb(46, 165, 42);  
+    }
+}
+        /*laptop*/
+      @media (min-width: 992px) {
+    .class1, .class2, .class3 {
+        background-color: rgb(58, 42, 165);  
+    }
+}

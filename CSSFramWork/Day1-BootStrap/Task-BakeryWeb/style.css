@@ -1,0 +1,88 @@
+  body{
+    font-family: 'Georgia', serif;
+     
+margin:0;
+}
+.btn-warning:hover{
+    background-color:transparent;
+    border:2px solid  rgb(231, 164, 8);
+    color:aliceblue;
+}
+.navbar-nav .nav-link:hover{
+color: rgb(231, 164, 8) !important;
+}
+.navbar{
+background: transparent;
+}
+#home{
+    background-image: url(Img/Home.jpg);
+     background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+#menu .card{
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+#menu .card img{
+    transition: all 0.3s ease;
+}
+
+#menu .card:hover img{
+    border: 4px solid #ffc107;  
+    transform: scale(1.05);    
+}
+
+#menu .card-title{
+    font-family: 'Georgia', serif;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+}
+
+#menu .card:hover .card-title{
+    color: #ffc107; 
+    transform: scale(1.1);
+}
+#menu .card-title{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+#top,#bottom{
+background-color: black;
+}
+#top img,
+#bottom img{
+height: 350px;
+object-fit: cover;
+}
+.mybtn:hover{
+background-color: white;
+color: #ffc107;
+border: 1px solid #ffc107;
+}
+
+.testimonial-box{
+background:#111;
+padding:40px;
+border-radius:15px;
+max-width:600px;
+}
+#testimonial{
+margin-bottom:0;
+}
+#footer{
+background:#111;
+margin:0;
+padding:40px 0;
+}
+
+#footer i{
+cursor:pointer;
+transition:0.3s;
+}
+
+#footer i:hover{
+color:#ffc107;
+}
