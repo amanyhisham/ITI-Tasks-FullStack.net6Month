@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1774364613 source:d:\courses\githup-ititasks-fullstack.net6month\problemsolving\week1\week1\main.cpp
+	<iostream>
+
+1774376500 source:d:\courses\githup-ititasks-fullstack.net6month\problemsolving\week1\main.cpp
+	<iostream>
+	<iomanip>
+	<algorithm>
+	<cmath>
+
