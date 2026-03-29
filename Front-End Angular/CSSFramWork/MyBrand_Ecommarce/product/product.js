@@ -288,13 +288,13 @@ const navCartIcon = document.querySelector('[onclick="addToCart()"]');
 if (navCartIcon) {
   navCartIcon.removeAttribute('onclick');
   navCartIcon.style.cursor = 'pointer';
-  navCartIcon.addEventListener('click', () => { window.location.href = '../cart/cart.html'; });
+  navCartIcon.addEventListener('click', () => { window.location.href = 'cart.html'; });
 }
 const navWishIcon = document.querySelector('[onclick="addToWishlist()"]');
 if (navWishIcon) {
   navWishIcon.removeAttribute('onclick');
   navWishIcon.style.cursor = 'pointer';
-  navWishIcon.addEventListener('click', () => { window.location.href = '../wishlist/wishlist.html'; });
+  navWishIcon.addEventListener('click', () => { window.location.href = 'wishlist.html'; });
 }
 
 fetchProducts();

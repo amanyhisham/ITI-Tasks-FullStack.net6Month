@@ -40,6 +40,6 @@ const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
                 timerProgressBar: true,
                 willClose: () => { 
                       localStorage.setItem("currentUser", JSON.stringify(user));
-                    window.location.replace('../HomePage/index.html');}
+                    window.location.replace('../index.html');}
             }) 
         });
