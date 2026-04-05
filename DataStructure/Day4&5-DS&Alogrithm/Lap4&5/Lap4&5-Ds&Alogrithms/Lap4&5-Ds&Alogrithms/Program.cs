@@ -47,8 +47,79 @@
             else return BinarySearchRecursive(emp, Element, left, mid - 1);
 
         }
+        //selection  -->o(n)2
+        public static void SelectionSort(EmployeeUpdata[] emp)
+        {
+            int n = emp.Length;
 
+            for (int i = 0; i < n - 1; i++)//
+            {
+                int minIndex = i;
 
+                for (int j = i + 1; j < n; j++)
+                {
+                    if (emp[j].CompareTo(emp[minIndex]) < 0)
+                    {
+                        minIndex = j;
+                    }
+                }
+
+                
+                EmployeeUpdata temp = emp[i];
+                emp[i] = emp[minIndex];
+                emp[minIndex] = temp;
+            }
+        }
+        //marge sort -----O(n log n)
+        public static void MergeSort(EmployeeUpdata[] arr, int left, int right)
+        {
+            // base case
+            if (left >= right)
+                return;
+
+            int mid = (left + right) / 2;
+
+            
+            MergeSort(arr, left, mid);
+            MergeSort(arr, mid + 1, right);//- 3 0 6 5 4 2 1 9
+
+            
+            Merge(arr, left, mid, right);
+        }
+        public static void Merge(EmployeeUpdata[] arr, int left, int mid, int right)
+        {
+            int n1 = mid - left + 1;
+            int n2 = right - mid;
+
+            EmployeeUpdata[] L = new EmployeeUpdata[n1];
+            EmployeeUpdata[] R = new EmployeeUpdata[n2];
+
+            for (int i = 0; i < n1; i++)
+                L[i] = arr[left + i];
+
+            for (int j = 0; j < n2; j++)
+                R[j] = arr[mid + 1 + j];
+
+            int iIndex = 0, jIndex = 0, k = left;
+
+            while (iIndex < n1 && jIndex < n2)
+            {
+                if (L[iIndex].CompareTo(R[jIndex]) <= 0)
+                {
+                    arr[k++] = L[iIndex++];
+                }
+                else
+                {
+                    arr[k++] = R[jIndex++];
+                }
+            }
+
+            while (iIndex < n1)
+                arr[k++] = L[iIndex++];
+
+            while (jIndex < n2)
+                arr[k++] = R[jIndex++];
+        }
         static void Main(string[] args)
         {
             //1.Task1(Comarable)
@@ -85,15 +156,43 @@
             list.AddSorted(e1);
             list.AddSorted(e2);
             list.AddSorted(e3);
-
             list.Display();
+            Console.WriteLine("----------------------------Lap5-part1 :Selection Sort:---------------");
+            EmployeeUpdata[] newEmp = new EmployeeUpdata[]
+                   {
+                    new EmployeeUpdata(22, 4000, "IT", new DateTime(2024, 1, 1)),
+                    new EmployeeUpdata(35, 9000, "HR", new DateTime(2019, 6, 1)),
+                    new EmployeeUpdata(28, 6000, "Sales", new DateTime(2021, 3, 1)),
+                    new EmployeeUpdata(30, 7000, "Finance", new DateTime(2018, 8, 1))
+                     };
+            Console.WriteLine("Before Selection Sort:");
+            foreach (var e in newEmp)
+             Console.WriteLine(e);
+            SelectionSort(newEmp);
+            Console.WriteLine("\nAfter Selection Sort:");
+            foreach (var e in newEmp)
+             Console.WriteLine(e);
+            Console.WriteLine("----------------------------Lap5-part2 :Marge Sort:---------------");
+            EmployeeUpdata[] newEmp2 = new EmployeeUpdata[]
+                  {
+                    new EmployeeUpdata(22, 4000, "IT", new DateTime(2024, 1, 1)),
+                    new EmployeeUpdata(35, 9000, "HR", new DateTime(2019, 6, 1)),
+                    new EmployeeUpdata(28, 6000, "Sales", new DateTime(2021, 3, 1)),
+                    new EmployeeUpdata(30, 7000, "Finance", new DateTime(2018, 8, 1))
+                    };
+            Console.WriteLine("Before Merge Sort:");
+            foreach (var e in newEmp2)
+                Console.WriteLine(e);
+
+            MergeSort(newEmp2, 0, newEmp2.Length - 1);
+
+            Console.WriteLine("\nAfter Merge Sort:");
+            foreach (var e in newEmp2)
+                Console.WriteLine(e);
 
 
 
 
-
-
-
-        }
+      }
     }
 }
