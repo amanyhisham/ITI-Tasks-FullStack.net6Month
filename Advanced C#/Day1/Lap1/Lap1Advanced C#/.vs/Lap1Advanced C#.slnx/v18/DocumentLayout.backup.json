@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day1\\lap1\\lap1advanced c#\\lap1advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|solutionrelative:lap1advanced c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day1\\lap1\\lap1advanced c#\\lap1advanced c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|solutionrelative:lap1advanced c#\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day1\\lap1\\lap1advanced c#\\lap1advanced c#\\recangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|solutionrelative:lap1advanced c#\\recangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day1\\lap1\\lap1advanced c#\\lap1advanced c#\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A7B1651-685D-469B-9C2D-EE90E49653FA}|Lap1Advanced C#\\Lap1Advanced C#.csproj|solutionrelative:lap1advanced c#\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "square.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\square.cs",
+              "RelativeDocumentMoniker": "Lap1Advanced C#\\square.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\square.cs",
+              "RelativeToolTip": "Lap1Advanced C#\\square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:50:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "recangle.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\recangle.cs",
+              "RelativeDocumentMoniker": "Lap1Advanced C#\\recangle.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\recangle.cs",
+              "RelativeToolTip": "Lap1Advanced C#\\recangle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:38:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "circle.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\circle.cs",
+              "RelativeDocumentMoniker": "Lap1Advanced C#\\circle.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\circle.cs",
+              "RelativeToolTip": "Lap1Advanced C#\\circle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T12:51:14.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1Advanced C#\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day1\\Lap1\\Lap1Advanced C#\\Lap1Advanced C#\\Program.cs",
+              "RelativeToolTip": "Lap1Advanced C#\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswCEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:37:58.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
