@@ -1,0 +1,14 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\bin\Debug\net10.0\Lap2AdvancedC#.exe
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\bin\Debug\net10.0\Lap2AdvancedC#.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\bin\Debug\net10.0\Lap2AdvancedC#.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\bin\Debug\net10.0\Lap2AdvancedC#.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\bin\Debug\net10.0\Lap2AdvancedC#.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\refint\Lap2AdvancedC#.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\Lap2AdvancedC#.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day2\Lap2\Lap2AdvancedC#\Lap2AdvancedC#\obj\Debug\net10.0\ref\Lap2AdvancedC#.dll
