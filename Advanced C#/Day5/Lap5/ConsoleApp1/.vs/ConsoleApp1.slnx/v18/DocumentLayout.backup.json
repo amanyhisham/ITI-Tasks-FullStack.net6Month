@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day5\\lap5\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\Lap5AdvancedC#.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day5\\lap5\\consoleapp1\\consoleapp1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\Lap5AdvancedC#.csproj|solutionrelative:consoleapp1\\zoo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day5\\lap5\\consoleapp1\\consoleapp1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B68813F-23C2-8DF2-1B1F-9033A2893F62}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Program.cs*",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:04:55.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zoo.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Zoo.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Zoo.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Zoo.cs",
+              "RelativeToolTip": "ConsoleApp1\\Zoo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T05:52:43.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Extensions.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Extensions.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day5\\Lap5\\ConsoleApp1\\ConsoleApp1\\Extensions.cs",
+              "RelativeToolTip": "ConsoleApp1\\Extensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-12T13:30:27.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
