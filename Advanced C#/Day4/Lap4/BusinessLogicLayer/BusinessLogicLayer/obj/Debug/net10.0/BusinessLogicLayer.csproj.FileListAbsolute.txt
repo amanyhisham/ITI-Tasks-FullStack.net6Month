@@ -1,0 +1,15 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\net10.0\BusinessLogicLayer.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\net10.0\DataAcessLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\bin\Debug\net10.0\DataAcessLayer.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.csproj.AssemblyReference.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\Business.450209FB.Up2Date
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\refint\BusinessLogicLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\BusinessLogicLayer.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\BusinessLogicLayer\BusinessLogicLayer\obj\Debug\net10.0\ref\BusinessLogicLayer.dll

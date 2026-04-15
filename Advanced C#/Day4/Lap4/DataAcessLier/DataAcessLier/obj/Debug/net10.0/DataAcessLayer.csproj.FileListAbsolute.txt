@@ -1,0 +1,12 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\bin\Debug\net10.0\DataAcessLayer.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\bin\Debug\net10.0\DataAcessLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\bin\Debug\net10.0\DataAcessLayer.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.csproj.AssemblyReference.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\refint\DataAcessLayer.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\DataAcessLayer.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day4\Lap4\DataAcessLier\DataAcessLier\obj\Debug\net10.0\ref\DataAcessLayer.dll

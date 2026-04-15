@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/ThreeTierArch/">
+    <Project Path="../BusinessLogicLayer/BusinessLogicLayer/BusinessLogicLayer.csproj" Id="463162e4-cdff-464e-8e2f-729c9355f644" />
+    <Project Path="../DataAcessLier/DataAcessLier/DataAcessLayer.csproj" Id="a736d3b9-7e48-4bcb-b827-685fbd5626ac" />
+    <Project Path="../PresentionLier/PresentionLier/PresentionLayer.csproj" Id="0d951b70-f25d-4e70-a352-01e3c67a6007" />
+  </Folder>
+  <Project Path="ConsoleApp1/Lap4 ADO.csproj" />
+</Solution>
