@@ -9,6 +9,9 @@
       "AbsoluteMoniker": "D:0:0:{463162E4-CDFF-464E-8E2F-729C9355F644}|..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\businesslogiclayer\\businesslogiclayer\\authormanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A736D3B9-7E48-4BCB-B827-685FBD5626AC}|..\\DataAcessLier\\DataAcessLier\\DataAcessLayer.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\dataacesslier\\dataacesslier\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{463162E4-CDFF-464E-8E2F-729C9355F644}|..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\businesslogiclayer\\businesslogiclayer\\model\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -16,9 +19,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{463162E4-CDFF-464E-8E2F-729C9355F644}|..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\businesslogiclayer\\businesslogiclayer\\businesslogiclayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A736D3B9-7E48-4BCB-B827-685FBD5626AC}|..\\DataAcessLier\\DataAcessLier\\DataAcessLayer.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\dataacesslier\\dataacesslier\\dataacesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{754BEA05-3390-F8F2-EB08-EBA1E6976007}|ConsoleApp1\\Lap4 ADO.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day4\\lap4\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -36,19 +36,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BusinessLogicLayer.csproj",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeDocumentMoniker": "..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "RelativeToolTip": "..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-16T07:24:56.991Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AuthorManger.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs",
-              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs",
-              "RelativeToolTip": "..\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDcAAAA5AAAAAAAAAA==",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs*",
+              "RelativeToolTip": "..\\BusinessLogicLayer\\BusinessLogicLayer\\AuthorManger.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T19:59:53.717Z"
+              "WhenOpened": "2026-04-14T19:59:53.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,7 +72,7 @@
               "RelativeDocumentMoniker": "..\\PresentionLier\\PresentionLier\\Program.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\PresentionLier\\PresentionLier\\Program.cs",
               "RelativeToolTip": "..\\PresentionLier\\PresentionLier\\Program.cs",
-              "ViewState": "AgIAAF8AAAAAAAAAAADgv3EAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwEUAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-14T20:45:51.871Z",
               "EditorCaption": ""
@@ -66,38 +80,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "BusinessLogicLayer.csproj",
-              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "RelativeDocumentMoniker": "..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "RelativeToolTip": "..\\BusinessLogicLayer\\BusinessLogicLayer\\BusinessLogicLayer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-14T22:08:27.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "DBManger.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\DataAcessLier\\DataAcessLier\\DBManger.cs",
               "RelativeDocumentMoniker": "..\\DataAcessLier\\DataAcessLier\\DBManger.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\DataAcessLier\\DataAcessLier\\DBManger.cs",
               "RelativeToolTip": "..\\DataAcessLier\\DataAcessLier\\DBManger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T19:02:26.035Z"
+              "WhenOpened": "2026-04-14T19:02:26.035Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Author.cs",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\Model\\Author.cs",
               "RelativeDocumentMoniker": "..\\BusinessLogicLayer\\BusinessLogicLayer\\Model\\Author.cs",
               "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\BusinessLogicLayer\\BusinessLogicLayer\\Model\\Author.cs",
               "RelativeToolTip": "..\\BusinessLogicLayer\\BusinessLogicLayer\\Model\\Author.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-14T19:24:21.412Z"
+              "WhenOpened": "2026-04-14T19:24:21.412Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "DataAcessLayer.csproj",
               "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day4\\Lap4\\DataAcessLier\\DataAcessLier\\DataAcessLayer.csproj",
               "RelativeDocumentMoniker": "..\\DataAcessLier\\DataAcessLier\\DataAcessLayer.csproj",
@@ -121,7 +125,8 @@
               "RelativeToolTip": "..\\DataAcessLier\\DataAcessLier\\DataAcessLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-04-14T19:07:18.575Z"
+              "WhenOpened": "2026-04-14T19:07:18.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

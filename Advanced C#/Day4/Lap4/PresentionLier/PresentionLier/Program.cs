@@ -63,11 +63,11 @@ namespace PresentionLier
                     AuthorManger authorManager = new AuthorManger();
                     Console.WriteLine("All Authors:");
                     Console.WriteLine();
-                    List<Author> authors = authorManager.getAllAuthor();
+                    List<Author> authors = authorManager.getAllAuthor();//list of authors
 
                     for (int i = 0; i < authors.Count; i++)
                     {
-                        Console.WriteLine($"{i + 1}: {authors[i]}");
+                        Console.WriteLine($"{i + 1}: {authors[i]}");//row ==auther 9 attribute
                     }
                 }
 
@@ -103,7 +103,8 @@ namespace PresentionLier
 
                     Console.WriteLine("Is there a contract? (yes/no):");
                     string contractInput = Console.ReadLine().ToLower();
-                    newAuthor.Contract = (contractInput == "yes") ? "1" : "0";
+
+                    newAuthor.Contract = (contractInput == "yes");
 
                     Console.WriteLine();
                     int rowsAffected = authorManager.addAuthor(newAuthor);

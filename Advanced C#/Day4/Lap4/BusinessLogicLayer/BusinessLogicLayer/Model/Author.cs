@@ -14,7 +14,7 @@ namespace BusinessLogicLayer.Model
         public string City { get; set; }
         public string address { get; set; }
         public string Phone { get; set; }
-        public string Contract { get; set; }
+        public bool Contract { get; set; }
         public override string ToString()
         {
             return $"authors: Id={Id}, Name={fName} {lName} ";
