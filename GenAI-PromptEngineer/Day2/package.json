@@ -1,0 +1,19 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "quicksort.test.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
