@@ -1,0 +1,16 @@
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\LinqDay2.exe
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\Customers.xml
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\dictionary_english.txt
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\LinqDay2.deps.json
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\LinqDay2.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\LinqDay2.dll
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\bin\Debug\net10.0\LinqDay2.pdb
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.dll
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\refint\LinqDay2.dll
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.pdb
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\LinqDay2.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\Linq\Day2\Lab\LinqDay2\LinqDay2\obj\Debug\net10.0\ref\LinqDay2.dll
