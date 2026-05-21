@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Profile</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="profile-card">
+      <section class="profile-panel">
+        <div class="profile-header">
+          <h1 id="welcomeTitle">Welcome</h1>
+          <p id="visitMessage"></p>
+        </div>
+
+        <div class="profile-content">
+          <div class="avatar-card">
+            <img id="profileImage" src="Img/man.jpg" alt="User profile image" />
+          </div>
+          <div class="profile-details">
+            <p><strong>Name:</strong> <span id="userNameText"></span></p>
+            <p><strong>Age:</strong> <span id="ageText"></span></p>
+            <p><strong>Gender:</strong> <span id="genderText"></span></p>
+            <p>
+              <strong>Favorite Color:</strong>
+              <span id="favoriteColorText"></span>
+            </p>
+          </div>
+        </div>
+
+        <div class="button-row">
+          <button id="editBtn" type="button">Edit Information</button>
+        </div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+      const requiredCookies = [
+        "userName",
+        "age",
+        "gender",
+        "favoriteColor",
+        "visitCount",
+      ];
+      try {
+        const storedName = getCookie("userName");
+        const storedAge = getCookie("age");
+        const storedGender = getCookie("gender");
+        const storedColor = getCookie("favoriteColor");
+        let visitCount = Number(getCookie("visitCount"));
+
+        if (
+          !storedName ||
+          !storedAge ||
+          !storedGender ||
+          !storedColor ||
+          Number.isNaN(visitCount)
+        ) {
+          location.href = "register.html";
+          throw new Error(
+            "Profile cookies are missing. Redirecting to registration.",
+          );
+        }
+
+        const welcomeTitle = document.getElementById("welcomeTitle");
+        const visitMessage = document.getElementById("visitMessage");
+        const profileImage = document.getElementById("profileImage");
+        const userNameText = document.getElementById("userNameText");
+        const ageText = document.getElementById("ageText");
+        const genderText = document.getElementById("genderText");
+        const favoriteColorText = document.getElementById("favoriteColorText");
+
+        userNameText.textContent = storedName;
+        ageText.textContent = storedAge;
+        genderText.textContent = storedGender;
+        favoriteColorText.textContent = storedColor;
+        profileImage.src =
+          storedGender === "Female" ? "Img/woman.jpg" : "Img/man.jpg";
+        profileImage.alt = `${storedGender} profile image`;
+        welcomeTitle.style.color = storedColor;
+        visitMessage.style.color = storedColor;
+
+        if (visitCount === 1) {
+          visitMessage.textContent = "Welcome for the first time";
+        } else {
+          visitMessage.textContent = `This is your visit number ${visitCount}`;
+        }
+
+        visitCount += 1;
+        const expiry = new Date();
+        expiry.setDate(expiry.getDate() + 30);
+        setCookie("visitCount", visitCount.toString(), expiry);
+      } catch (error) {
+        console.error(error.message);
+      }
+
+      document.getElementById("editBtn").addEventListener("click", () => {
+        location.href = "register.html";
+      });
+    </script>
+  </body>
+</html>

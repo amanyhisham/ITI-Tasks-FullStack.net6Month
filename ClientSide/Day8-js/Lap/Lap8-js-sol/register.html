@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Register</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="page-card">
+      <section class="form-panel">
+        <div class="panel-header">
+          <h1>Register Your Profile</h1>
+          <p>Enter your details and start your personalized experience.</p>
+        </div>
+
+        <div class="input-group">
+          <label for="userName">User Name</label>
+          <input
+            id="userName"
+            type="text"
+            placeholder="Enter your name"
+            autocomplete="name"
+          />
+        </div>
+
+        <div class="input-group">
+          <label for="age">Age</label>
+          <input
+            id="age"
+            type="number"
+            min="1"
+            max="120"
+            placeholder="Your age"
+          />
+        </div>
+
+        <div class="input-group">
+          <span>Gender</span>
+          <div class="radio-row">
+            <label
+              ><input type="radio" name="gender" value="Male" checked />
+              Male</label
+            >
+            <label
+              ><input type="radio" name="gender" value="Female" /> Female</label
+            >
+          </div>
+        </div>
+
+        <div class="input-group">
+          <label for="favoriteColor">Favorite Color</label>
+          <input id="favoriteColor" type="color" value="#1a73e8" />
+        </div>
+
+        <div class="profile-preview">
+          <img id="previewImage" src="Img/man.jpg" alt="Profile preview" />
+          <p id="previewText">Male profile selected</p>
+        </div>
+
+        <div class="button-row">
+          <button id="submitBtn" type="button">Submit</button>
+        </div>
+
+        <div id="errorBox" class="error-box" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <script src="script.js"></script>
+    <script>
+      const genderRadios = document.querySelectorAll('input[name="gender"]');
+      const previewImage = document.getElementById("previewImage");
+      const previewText = document.getElementById("previewText");
+
+      function updatePreview() {
+        const gender = document.querySelector(
+          'input[name="gender"]:checked',
+        ).value;
+        if (gender === "Female") {
+          previewImage.src = "Img/woman.jpg";
+          previewText.textContent = "Female profile selected";
+        } else {
+          previewImage.src = "Img/man.jpg";
+          previewText.textContent = "Male profile selected";
+        }
+      }
+
+      genderRadios.forEach((radio) =>
+        radio.addEventListener("change", updatePreview),
+      );
+
+      document.getElementById("submitBtn").addEventListener("click", () => {
+        const errorBox = document.getElementById("errorBox");
+        errorBox.textContent = "";
+
+        try {
+          const userName = document.getElementById("userName").value.trim();
+          const age = document.getElementById("age").value.trim();
+          const gender = document.querySelector(
+            'input[name="gender"]:checked',
+          ).value;
+          const favoriteColor = document.getElementById("favoriteColor").value;
+          const expiry = new Date();
+          expiry.setDate(expiry.getDate() + 30);
+
+          if (!userName) throw new Error("User name is required.");
+          if (!age) throw new Error("Age is required.");
+          const ageNumber = Number(age);
+          if (!Number.isInteger(ageNumber) || ageNumber <= 0)
+            throw new Error("Please enter a valid age.");
+          if (!favoriteColor) throw new Error("Favorite color is required.");
+
+          setCookie("userName", userName, expiry);
+          setCookie("age", ageNumber.toString(), expiry);
+          setCookie("gender", gender, expiry);
+          setCookie("favoriteColor", favoriteColor, expiry);
+          setCookie("visitCount", "1", expiry);
+
+          location.href = "profile.html";
+        } catch (error) {
+          errorBox.textContent = error.message;
+        }
+      });
+    </script>
+  </body>
+</html>
