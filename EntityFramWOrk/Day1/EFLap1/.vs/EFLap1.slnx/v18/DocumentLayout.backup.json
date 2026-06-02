@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day1\\eflap1\\eflap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|solutionrelative:eflap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day1\\eflap1\\eflap1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|solutionrelative:eflap1\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day1\\eflap1\\eflap1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF102339-1DEE-47B7-9176-D49AB41B1C46}|EFLap1\\EFLap1.csproj|solutionrelative:eflap1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\Employee.cs",
+              "RelativeDocumentMoniker": "EFLap1\\Employee.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\Employee.cs*",
+              "RelativeToolTip": "EFLap1\\Employee.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:39:52.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EFLap1\\AppDbContext.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\AppDbContext.cs*",
+              "RelativeToolTip": "EFLap1\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:30:25.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\Program.cs",
+              "RelativeDocumentMoniker": "EFLap1\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day1\\EFLap1\\EFLap1\\Program.cs*",
+              "RelativeToolTip": "EFLap1\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T19:20:06.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

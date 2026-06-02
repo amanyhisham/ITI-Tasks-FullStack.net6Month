@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\employeesystem\\employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\employeesystem\\employeesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\employeesystem\\employeesystem\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE1796B-609A-4BD6-8869-2C0BD7C97C68}|EmployeeSystem\\EmployeeSystem.csproj|solutionrelative:employeesystem\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Employee.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Employee.cs",
+              "RelativeToolTip": "EmployeeSystem\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:18:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Department.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Department.cs",
+              "RelativeToolTip": "EmployeeSystem\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T01:17:38.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeSystem\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\EmployeeSystem\\EmployeeSystem\\Program.cs",
+              "RelativeToolTip": "EmployeeSystem\\Program.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAqwLQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T00:51:32.679Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

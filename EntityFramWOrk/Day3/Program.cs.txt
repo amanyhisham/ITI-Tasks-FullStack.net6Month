@@ -1,0 +1,72 @@
+﻿using System.Diagnostics;
+using Dapper;
+using ITI_Dapper.model;
+using Microsoft.Data.SqlClient;
+
+namespace ITI_Dapper
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            #region memory and time
+            //var stopwatch= new System.Diagnostics.Stopwatch();
+            ///////// memory usage in .net  real memory 
+            //var process = System.Diagnostics.Process.GetCurrentProcess().WorkingSet64;
+            /////// memory usage in .net virtual memory
+            //var virtualMemory = System.Diagnostics.Process.GetCurrentProcess().VirtualMemorySize64;
+            //Console.WriteLine(process);
+            //Console.WriteLine(virtualMemory);
+            //stopwatch.Start();
+            //Console.WriteLine("Hello, World!");
+
+            //stopwatch.Stop();
+            //Console.WriteLine($"Elapsed time: {stopwatch.ElapsedMilliseconds} ms");
+            ////// memoryusage after executing the code ( memory in .net + memory used by the code)
+            //var process1 = System.Diagnostics.Process.GetCurrentProcess().WorkingSet64;// real memory ram 
+
+            //var virtualMemory1 = System.Diagnostics.Process.GetCurrentProcess().VirtualMemorySize64;// virtual memory
+            //var z=virtualMemory1 - virtualMemory;
+            //var x=process1 -process;
+            //Console.WriteLine($"real memory by code {x}");
+            //Console.WriteLine($"virtual memory by code {z}");
+
+            #endregion memory and time
+
+            var connectionString = "Server=SALAMA\\SALAMA;Database=Company_SD;Trusted_Connection=True;Encrypt=False;";
+            var con = new SqlConnection(connectionString);
+            //var count =   con.ExecuteScalar<int>("SELECT COUNT(*) FROM Employee");
+            //   Console.WriteLine(count );
+            //   var x = con.Query<employee>("SELECT * FROM Employee where Fname = @Fname", new { Fname = "abdullah" });
+            //   foreach (var item in x)
+            //   {
+            //       Console.WriteLine($"{item.Salary} **** {item.Fname} ***** {item.Lname} ***** {item.SSN}" );
+            //   }
+            //   var xx = con.QueryFirst <employee>("SELECT * FROM Employee where Fname = @Fname", new { Fname = "abdullah" });
+
+            //   Console.WriteLine(xx.Fname);
+
+            //var query = "SELECT e.Lname,e.Fname , d.Dname FROM Employee e JOIN Departments d ON e.Dno = d.Dnum";
+            //var q1 = con.Query<employee, Department, employee>(query, (employee, department) =>
+            //  {
+            //      employee.Department = department;
+            //      return employee;
+            //  }, splitOn: "Dname");
+            //foreach (var item in q1)
+            //{
+            //    Console.WriteLine(item.Fname);
+
+            //    Console.WriteLine(item.Department.Dname);
+            //}
+            //var q2= "insert into Employee (Fname,Lname,SSN) values (@Fname,@Lname,@SSN)";
+            //con.Execute(q2, new { Fname = "John", Lname = "Doe", SSN = 152, Birth = new DateTime(1990, 1, 1) });
+            // var update= "update Employee set Salary = @Salary where Fname = @Fname";
+            //con.Execute(update, new { Salary = 50000, Fname = "John" });
+            var stored = con.Query<int>("get_salary", new { id = 112233 }, commandType: System.Data.CommandType.StoredProcedure);
+            foreach (var item in stored)
+            {
+                Console.WriteLine(item);
+            }
+        }
+    }
+}
