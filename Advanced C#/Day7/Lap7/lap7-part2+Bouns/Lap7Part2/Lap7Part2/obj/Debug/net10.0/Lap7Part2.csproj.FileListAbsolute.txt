@@ -1,0 +1,14 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\bin\Debug\net10.0\Lap7Part2.exe
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\bin\Debug\net10.0\Lap7Part2.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\bin\Debug\net10.0\Lap7Part2.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\bin\Debug\net10.0\Lap7Part2.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\bin\Debug\net10.0\Lap7Part2.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\refint\Lap7Part2.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\Lap7Part2.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\lap7-part2+Bouns\Lap7Part2\Lap7Part2\obj\Debug\net10.0\ref\Lap7Part2.dll

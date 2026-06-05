@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\services\\anthropicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\services\\anthropicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\shared\\_chatwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\shared\\_chatwidget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\wwwroot\\js\\luna-chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\wwwroot\\js\\luna-chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\wwwroot\\css\\luna.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\wwwroot\\css\\luna.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\views\\contact\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\views\\contact\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\services\\ianthropicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\services\\ianthropicservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\models\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\models\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|d:\\courses\\iti6month-fullstack.net\\entityframwork\\day3\\lunaboutique\\lunaboutique\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563320A-D0AF-B945-5179-8BD99AF36687}|LunaBoutique\\LunaBoutique.csproj|solutionrelative:lunaboutique\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ChatWidget.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Shared\\_ChatWidget.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Shared\\_ChatWidget.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Shared\\_ChatWidget.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Shared\\_ChatWidget.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwCsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T02:38:38.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "luna-chat.js",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\wwwroot\\js\\luna-chat.js",
+              "RelativeDocumentMoniker": "LunaBoutique\\wwwroot\\js\\luna-chat.js",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\wwwroot\\js\\luna-chat.js",
+              "RelativeToolTip": "LunaBoutique\\wwwroot\\js\\luna-chat.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-05T03:20:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAQwFkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T03:17:54.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AnthropicService.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Services\\AnthropicService.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Services\\AnthropicService.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Services\\AnthropicService.cs",
+              "RelativeToolTip": "LunaBoutique\\Services\\AnthropicService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:12:28.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T03:20:46.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\appsettings.json",
+              "RelativeDocumentMoniker": "LunaBoutique\\appsettings.json",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\appsettings.json*",
+              "RelativeToolTip": "LunaBoutique\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-05T03:13:00.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "luna.css",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\wwwroot\\css\\luna.css",
+              "RelativeDocumentMoniker": "LunaBoutique\\wwwroot\\css\\luna.css",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\wwwroot\\css\\luna.css",
+              "RelativeToolTip": "LunaBoutique\\wwwroot\\css\\luna.css",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAAAF4CAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-06-05T03:19:35.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LunaBoutique\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:15:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Controllers\\ContactController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "LunaBoutique\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:20:08.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T04:48:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Products\\Details.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Products\\Details.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T04:49:20.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "LunaBoutique\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-05T04:18:59.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Contact\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Views\\Contact\\Index.cshtml.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Views\\Contact\\Index.cshtml.cs",
+              "RelativeToolTip": "LunaBoutique\\Views\\Contact\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T04:19:10.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "LunaBoutique\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwCAAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:35:44.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Program.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Program.cs",
+              "RelativeToolTip": "LunaBoutique\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:13:57.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "LunaBoutique\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:36:02.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LunaBoutique\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:10:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Models\\HomeViewModel.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\HomeViewModel.cs",
+              "RelativeToolTip": "LunaBoutique\\Models\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:10:32.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IAnthropicService.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Services\\IAnthropicService.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Services\\IAnthropicService.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Services\\IAnthropicService.cs",
+              "RelativeToolTip": "LunaBoutique\\Services\\IAnthropicService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:37:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Models\\ChatMessage.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\ChatMessage.cs",
+              "RelativeToolTip": "LunaBoutique\\Models\\ChatMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:36:35.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LunaBoutique\\Models\\Product.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\EntityFramWOrk\\Day3\\LunaBoutique\\LunaBoutique\\Models\\Product.cs",
+              "RelativeToolTip": "LunaBoutique\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T02:36:20.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

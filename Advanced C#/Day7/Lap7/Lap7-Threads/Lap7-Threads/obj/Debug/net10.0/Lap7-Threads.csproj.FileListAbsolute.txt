@@ -1,0 +1,14 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\bin\Debug\net10.0\Lap7-Threads.exe
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\bin\Debug\net10.0\Lap7-Threads.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\bin\Debug\net10.0\Lap7-Threads.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\bin\Debug\net10.0\Lap7-Threads.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\bin\Debug\net10.0\Lap7-Threads.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\refint\Lap7-Threads.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\Lap7-Threads.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day7\Lap7\Lap7-Threads\Lap7-Threads\obj\Debug\net10.0\ref\Lap7-Threads.dll

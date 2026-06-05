@@ -1,0 +1,14 @@
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\bin\Debug\net10.0\Day9.exe
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\bin\Debug\net10.0\Day9.deps.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\bin\Debug\net10.0\Day9.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\bin\Debug\net10.0\Day9.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\bin\Debug\net10.0\Day9.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\refint\Day9.dll
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.pdb
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\Day9.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\Advanced C#\Day9\Day9\Day9\obj\Debug\net10.0\ref\Day9.dll

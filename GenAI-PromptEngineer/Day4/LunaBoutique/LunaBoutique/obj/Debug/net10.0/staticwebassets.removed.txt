@@ -1,0 +1,3 @@
+D:\Courses\ITI6Month-FullStack.net\EntityFramWOrk\Day3\LunaBoutique\LunaBoutique\wwwroot\images\home1.jpg
+D:\Courses\ITI6Month-FullStack.net\EntityFramWOrk\Day3\LunaBoutique\LunaBoutique\wwwroot\images\make up1.jpg
+D:\Courses\ITI6Month-FullStack.net\EntityFramWOrk\Day3\LunaBoutique\LunaBoutique\wwwroot\images\makeup 2.jpg

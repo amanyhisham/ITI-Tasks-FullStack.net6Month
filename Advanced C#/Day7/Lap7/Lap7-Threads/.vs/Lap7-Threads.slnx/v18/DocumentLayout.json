@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day7\\Lap7\\Lap7-Threads\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1835D6F-5787-D029-C25C-201F17E3A274}|Lap7-Threads\\Lap7-Threads.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day7\\lap7\\lap7-threads\\lap7-threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1835D6F-5787-D029-C25C-201F17E3A274}|Lap7-Threads\\Lap7-Threads.csproj|solutionrelative:lap7-threads\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1835D6F-5787-D029-C25C-201F17E3A274}|Lap7-Threads\\Lap7-Threads.csproj|d:\\courses\\iti6month-fullstack.net\\advanced c#\\day7\\lap7\\lap7-threads\\lap7-threads\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1835D6F-5787-D029-C25C-201F17E3A274}|Lap7-Threads\\Lap7-Threads.csproj|solutionrelative:lap7-threads\\number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Number.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day7\\Lap7\\Lap7-Threads\\Lap7-Threads\\Number.cs",
+              "RelativeDocumentMoniker": "Lap7-Threads\\Number.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day7\\Lap7\\Lap7-Threads\\Lap7-Threads\\Number.cs",
+              "RelativeToolTip": "Lap7-Threads\\Number.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T09:50:40.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day7\\Lap7\\Lap7-Threads\\Lap7-Threads\\Program.cs",
+              "RelativeDocumentMoniker": "Lap7-Threads\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\Advanced C#\\Day7\\Lap7\\Lap7-Threads\\Lap7-Threads\\Program.cs",
+              "RelativeToolTip": "Lap7-Threads\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T21:18:24.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
