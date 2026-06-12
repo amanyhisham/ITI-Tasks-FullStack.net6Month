@@ -78,4 +78,4 @@ Some of the tools and technologies used in this program include:
 Computer Science Graduate
 Software Engineer
 Full Stack .NET Trainee
- This repo is mainly for personal learning and reference
+ This repo is mainly for personal learning and reference.
