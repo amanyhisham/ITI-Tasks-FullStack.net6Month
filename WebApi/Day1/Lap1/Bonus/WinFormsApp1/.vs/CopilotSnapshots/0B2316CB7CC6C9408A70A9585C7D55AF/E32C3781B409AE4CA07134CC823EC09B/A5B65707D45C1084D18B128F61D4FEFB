@@ -1,0 +1,152 @@
+﻿namespace WinFormsApp1
+{
+    partial class Form1
+    {
+        /// <summary>
+        ///  Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.ListBox lstCourses;
+        private System.Windows.Forms.Button btnLoad;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.TextBox txtDesc;
+        private System.Windows.Forms.TextBox txtDuration;
+        private System.Windows.Forms.Label lblName;
+        private System.Windows.Forms.Label lblDesc;
+        private System.Windows.Forms.Label lblDuration;
+
+        /// <summary>
+        ///  Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        ///  Required method for Designer support - do not modify
+        ///  the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            components = new System.ComponentModel.Container();
+            this.lstCourses = new System.Windows.Forms.ListBox();
+            this.btnLoad = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.txtDesc = new System.Windows.Forms.TextBox();
+            this.txtDuration = new System.Windows.Forms.TextBox();
+            this.lblName = new System.Windows.Forms.Label();
+            this.lblDesc = new System.Windows.Forms.Label();
+            this.lblDuration = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // lstCourses
+            // 
+            this.lstCourses.FormattingEnabled = true;
+            this.lstCourses.ItemHeight = 15;
+            this.lstCourses.Location = new System.Drawing.Point(12, 12);
+            this.lstCourses.Name = "lstCourses";
+            this.lstCourses.Size = new System.Drawing.Size(260, 409);
+            this.lstCourses.TabIndex = 0;
+            // 
+            // btnLoad
+            // 
+            this.btnLoad.Location = new System.Drawing.Point(290, 12);
+            this.btnLoad.Name = "btnLoad";
+            this.btnLoad.Size = new System.Drawing.Size(120, 30);
+            this.btnLoad.TabIndex = 1;
+            this.btnLoad.Text = "Load Courses";
+            this.btnLoad.UseVisualStyleBackColor = true;
+            this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
+            // 
+            // lblName
+            // 
+            this.lblName.AutoSize = true;
+            this.lblName.Location = new System.Drawing.Point(290, 60);
+            this.lblName.Name = "lblName";
+            this.lblName.Size = new System.Drawing.Size(39, 15);
+            this.lblName.TabIndex = 2;
+            this.lblName.Text = "Name";
+            // 
+            // txtName
+            // 
+            this.txtName.Location = new System.Drawing.Point(290, 78);
+            this.txtName.Name = "txtName";
+            this.txtName.Size = new System.Drawing.Size(300, 23);
+            this.txtName.TabIndex = 3;
+            // 
+            // lblDesc
+            // 
+            this.lblDesc.AutoSize = true;
+            this.lblDesc.Location = new System.Drawing.Point(290, 114);
+            this.lblDesc.Name = "lblDesc";
+            this.lblDesc.Size = new System.Drawing.Size(67, 15);
+            this.lblDesc.TabIndex = 4;
+            this.lblDesc.Text = "Description";
+            // 
+            // txtDesc
+            // 
+            this.txtDesc.Location = new System.Drawing.Point(290, 132);
+            this.txtDesc.Multiline = true;
+            this.txtDesc.Name = "txtDesc";
+            this.txtDesc.Size = new System.Drawing.Size(300, 120);
+            this.txtDesc.TabIndex = 5;
+            // 
+            // lblDuration
+            // 
+            this.lblDuration.AutoSize = true;
+            this.lblDuration.Location = new System.Drawing.Point(290, 268);
+            this.lblDuration.Name = "lblDuration";
+            this.lblDuration.Size = new System.Drawing.Size(57, 15);
+            this.lblDuration.TabIndex = 6;
+            this.lblDuration.Text = "Duration";
+            // 
+            // txtDuration
+            // 
+            this.txtDuration.Location = new System.Drawing.Point(290, 286);
+            this.txtDuration.Name = "txtDuration";
+            this.txtDuration.Size = new System.Drawing.Size(100, 23);
+            this.txtDuration.TabIndex = 7;
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.Location = new System.Drawing.Point(290, 330);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(120, 30);
+            this.btnAdd.TabIndex = 8;
+            this.btnAdd.Text = "Add Course";
+            this.btnAdd.UseVisualStyleBackColor = true;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(620, 430);
+            this.Controls.Add(this.btnAdd);
+            this.Controls.Add(this.txtDuration);
+            this.Controls.Add(this.lblDuration);
+            this.Controls.Add(this.txtDesc);
+            this.Controls.Add(this.lblDesc);
+            this.Controls.Add(this.txtName);
+            this.Controls.Add(this.lblName);
+            this.Controls.Add(this.btnLoad);
+            this.Controls.Add(this.lstCourses);
+            this.Name = "Form1";
+            this.Text = "Courses Client";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+
+        #endregion
+    }
+}
