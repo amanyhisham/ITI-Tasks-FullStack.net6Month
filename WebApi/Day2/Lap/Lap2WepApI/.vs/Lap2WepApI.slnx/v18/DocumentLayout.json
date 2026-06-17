@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\dtos\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\dtos\\studentadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\dtos\\studentadddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day2\\lap\\lap2wepapi\\lap2wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7AB9EF2-1C4B-4746-AB17-0B12EA076B1B}|Lap2WepApI\\Lap2WepApI.csproj|solutionrelative:lap2wepapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Models\\ItiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Lap2WepApI\\Models\\ItiContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Controllers\\DepartmentController.cs*",
+              "RelativeToolTip": "Lap2WepApI\\Controllers\\DepartmentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:54:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\Models\\Student.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Models\\Student.cs*",
+              "RelativeToolTip": "Lap2WepApI\\Models\\Student.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA/wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:50:46.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "Lap2WepApI\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:21:50.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Program.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Program.cs*",
+              "RelativeToolTip": "Lap2WepApI\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:19:09.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\MappingProfile.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\MappingProfile.cs*",
+              "RelativeToolTip": "Lap2WepApI\\MappingProfile.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:17:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDTO.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\StudentDTO.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\DTOS\\StudentDTO.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\StudentDTO.cs*",
+              "RelativeToolTip": "Lap2WepApI\\DTOS\\StudentDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:07:17.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\DTOS\\DepartmentDTO.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\DepartmentDTO.cs*",
+              "RelativeToolTip": "Lap2WepApI\\DTOS\\DepartmentDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:08:26.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentAddDTO.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\StudentAddDTO.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\DTOS\\StudentAddDTO.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\DTOS\\StudentAddDTO.cs*",
+              "RelativeToolTip": "Lap2WepApI\\DTOS\\StudentAddDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:09:57.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Lap2WepApI\\appsettings.Development.json",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\appsettings.Development.json*",
+              "RelativeToolTip": "Lap2WepApI\\appsettings.Development.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T22:20:22.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap2WepApI\\appsettings.json",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\appsettings.json",
+              "RelativeToolTip": "Lap2WepApI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T22:20:18.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ItiContext.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Models\\ItiContext.cs",
+              "RelativeDocumentMoniker": "Lap2WepApI\\Models\\ItiContext.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day2\\Lap\\Lap2WepApI\\Lap2WepApI\\Models\\ItiContext.cs",
+              "RelativeToolTip": "Lap2WepApI\\Models\\ItiContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T22:04:41.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

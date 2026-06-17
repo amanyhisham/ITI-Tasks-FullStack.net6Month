@@ -1,0 +1,16 @@
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.exe
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.deps.json
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.dll
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\WinFormsApp1.dll
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.pdb
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Courses\ITI6Month-FullStack.net\WebApi\Day1\Lap1\Bonus\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\WinFormsApp1.dll

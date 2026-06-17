@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\lap1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\lap1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|d:\\courses\\iti6month-fullstack.net\\webapi\\day1\\lap1\\lap1\\lap1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{250C98F0-159B-5128-8AFA-762F8C1AEEB0}|Lap1\\Lap1.csproj|solutionrelative:lap1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lap1.http",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Lap1.http",
+              "RelativeDocumentMoniker": "Lap1\\Lap1.http",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Lap1.http",
+              "RelativeToolTip": "Lap1\\Lap1.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-18T10:38:16.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Lap1\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Lap1\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T10:09:59.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Program.cs",
+              "RelativeDocumentMoniker": "Lap1\\Program.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Program.cs",
+              "RelativeToolTip": "Lap1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:53:50.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Lap1\\Models\\AppDbContext.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Lap1\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:48:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\appsettings.json",
+              "RelativeDocumentMoniker": "Lap1\\appsettings.json",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\appsettings.json",
+              "RelativeToolTip": "Lap1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-18T09:52:44.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Lap1\\Models\\Courses.cs",
+              "ToolTip": "D:\\Courses\\ITI6Month-FullStack.net\\WebApi\\Day1\\Lap1\\Lap1\\Lap1\\Models\\Courses.cs",
+              "RelativeToolTip": "Lap1\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T09:44:37.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
