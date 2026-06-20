@@ -18,5 +18,12 @@ namespace Lap3WebAPI.Repository
                 .Include(d => d.Students)
                 .ToListAsync();
         }
+         
+        public async Task<Department?> GetByIdWithStudents(int id)
+        {
+            return await _context.Departments
+                .Include(d => d.Students)
+                .FirstOrDefaultAsync(d => d.DeptId == id);
+        }
     }
 }

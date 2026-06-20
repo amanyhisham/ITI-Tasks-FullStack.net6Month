@@ -137,6 +137,9 @@
           "204": {
             "description": "Department deleted successfully"
           },
+          "400": {
+            "description": "Department has related students"
+          },
           "404": {
             "description": "Department not found"
           }

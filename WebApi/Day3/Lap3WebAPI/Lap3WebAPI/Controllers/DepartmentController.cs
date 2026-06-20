@@ -33,18 +33,7 @@ namespace Lap3WebAPI.Controllers
             return Ok(result);
         }
 
-        [HttpGet("{id}")]
-        [SwaggerOperation(
-            Summary = "Get department by ID",
-            Description = "Returns a single department with number of students")]
-        [SwaggerResponse(200, "Success", typeof(DepartmentDTO))]
-        [SwaggerResponse(404, "Department not found")]
-        public async Task<IActionResult> GetById(int id)
-        {
-            var department = await _unitOfWork.Departments.GetById(id);
-            if (department == null) return NotFound();
-            return Ok(_mapper.Map<DepartmentDTO>(department));
-        }
+        
 
         [HttpPost]
         [Consumes("application/json")]
@@ -67,17 +56,39 @@ namespace Lap3WebAPI.Controllers
             
 
         }
+ 
+
+
+
+        [HttpGet("{id}")]
+        [SwaggerOperation(Summary = "Get department by ID", Description = "Returns a single department with number of students")]
+        [SwaggerResponse(200, "Success", typeof(DepartmentDTO))]
+        [SwaggerResponse(404, "Department not found")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            var department = await _unitOfWork.Departments.GetByIdWithStudents(id);
+            if (department == null) return NotFound();
+            return Ok(_mapper.Map<DepartmentDTO>(department));
+        }
 
         [HttpDelete("{id}")]
-        [SwaggerOperation(
-            Summary = "Delete department",
-            Description = "Deletes a department by ID")]
+        [SwaggerOperation(Summary = "Delete department", Description = "Deletes a department by ID")]
         [SwaggerResponse(204, "Department deleted successfully")]
+        [SwaggerResponse(400, "Department has related students")]
         [SwaggerResponse(404, "Department not found")]
         public async Task<IActionResult> Delete(int id)
         {
-            var dept = await _unitOfWork.Departments.GetById(id);
+            var dept = await _unitOfWork.Departments.GetByIdWithStudents(id);
             if (dept == null) return NotFound();
+
+            if (dept.Students != null && dept.Students.Count > 0)
+            {
+                return BadRequest(new
+                {
+                    message = $"Cannot delete department '{dept.DeptName}' because it contains {dept.Students.Count} student(s). Please delete or transfer the students first."
+                });
+            }
+
             await _unitOfWork.Departments.Delete(id);
             await _unitOfWork.Save();
             return NoContent();
