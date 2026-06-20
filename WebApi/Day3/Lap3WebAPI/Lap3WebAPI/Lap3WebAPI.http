@@ -1,0 +1,6 @@
+@Lap3WebAPI_HostAddress = http://localhost:5267
+
+GET {{Lap3WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
