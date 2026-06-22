@@ -100,7 +100,7 @@ This journey is highly practical and includes:
 
 ## ✨ Highlights
 
-- Completed 500+ tasks and labs
+- Completed tasks and labs
 - Built full-stack real-world projects
 - Worked with AI tools in development
 - Practiced modern software engineering workflows
