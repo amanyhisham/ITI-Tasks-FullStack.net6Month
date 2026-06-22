@@ -1,81 +1,124 @@
-# Full Stack .NET – 6 Month Learning Journey 🚀
+ # 🚀 Full Stack .NET – 6 Month Learning Journey
 
-This repository documents my **6-month learning journey in the Full Stack .NET program**.
-It contains my **assignments, solutions, practice tasks, and projects** completed during the training.
+This repository documents my **6-month journey** in the Full Stack .NET Development Program.
 
-The goal of this repository is to track my progress while learning different technologies required to become a **Full Stack .NET Developer**.
-
----
-
-## 📚 Topics Covered
-
-During this program, I study and practice several important areas in software development, including:
-
-* **C# Programming**
-* **Object Oriented Programming (OOP)**
-* **Data Structures**
-* **Algorithms**
-* **Database Concepts**
-* **SQL Server**
-* **Backend Development using .NET**
-* **Problem Solving**
-* **Software Development Best Practices**
+It contains my **tasks, labs, assignments, projects, and experiments** across frontend, backend, databases, and AI-powered development.
 
 ---
 
-## 🗂 Repository Structure
+## 👩‍💻 About This Journey
 
-The repository is organized into folders according to the topics and lectures.
-Each folder may contain:
+During this program, I worked on real-world and training-based development tasks using modern technologies, including:
 
-* 📄 Assignments
-* ✅ My solutions
-* 🧪 Practice exercises
-* 💻 Small projects
-* 📝 Notes or explanations
-
----
-
-## 🧠 What I Upload Here
-
-In this repository, I regularly upload:
-
-* Daily **assignments**
-* My **solutions to the assignments**
-* **Practice problems**
-* **Course projects**
-* Any **useful notes or experiments**
-
-This helps me track my learning progress and keep all my work organized.
+- Backend Development with .NET Web API
+- Frontend Development using Angular
+- MVC Applications
+- Database Design & SQL Server
+- Entity Framework Core
+- AI-powered development techniques (RAG, Agents, Fine-Tuning, Vibe Coding)
+- Software Engineering fundamentals
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧠 What I Learned
 
-Some of the tools and technologies used in this program include:
+### 💻 Programming & Backend
+- C# Programming
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- LINQ
+- ASP.NET Core Web API
+- Clean Architecture & Best Practices
+- Authentication & Authorization
 
-* **C#**
-* **.NET**
-* **SQL Server**
-* **Visual Studio**
-* **Git & GitHub**
+### 🌐 Frontend Development
+- HTML5 & CSS3
+- JavaScript (ES6+)
+- TypeScript
+- Bootstrap
+- Angular Framework (Components, Routing, Forms, Services)
+
+### 🗄️ Database
+- SQL Server
+- T-SQL
+- Database Design
+- Normalization
+- Stored Procedures
+
+### 🤖 AI & Modern Development
+- Retrieval Augmented Generation (RAG)
+- AI Agents Development
+- Prompt Engineering
+- Fine-Tuning Concepts
+- Vibe Coding with AI Tools
+
+### 🛠 Tools & Technologies
+- Git & GitHub
+- Visual Studio / VS Code
+- Docker Basics
+- Postman
+- Testing Fundamentals
 
 ---
 
-## 🎯 Purpose of This Repository
+## 📁 Repository Structure
 
-* Track my **learning progress**
-* Practice **clean coding**
-* Improve **problem solving skills**
-* Build a **portfolio of projects**
-* Keep all assignments and projects organized
+The repository is organized into:
+
+- 📌 Tasks & Daily Assignments
+- 🧪 Hands-on Labs
+- 💻 Mini Projects
+- 🚀 Full Projects (API + Angular + MVC)
+- 🧠 Problem Solving
+- ⚙️ Workshops
+- 🤖 AI & RAG Experiments
+
+---
+
+## 📌 What I Built
+
+- RESTful APIs using .NET Core
+- Angular Single Page Applications (SPA)
+- MVC Web Applications
+- CRUD systems with Entity Framework
+- AI-powered projects (RAG systems & Agents)
+- Integrated full-stack solutions
+
+---
+
+## 🧪 Training Style
+
+This journey is highly practical and includes:
+
+- Daily tasks & challenges
+- Hands-on labs
+- Weekly assignments
+- Real-world mini projects
+- Final graduation projects
+
+---
+
+## ✨ Highlights
+
+- Completed 500+ tasks and labs
+- Built full-stack real-world projects
+- Worked with AI tools in development
+- Practiced modern software engineering workflows
+- Continuous improvement through practice
+
+---
+
+## 🎯 Goal
+
+To become a **skilled Full Stack .NET Developer** capable of building scalable, real-world software solutions using modern technologies and AI tools.
 
 ---
 
 ## 👩‍💻 Author
 
-**Amany Hisham**
-Computer Science Graduate
-Software Engineer
-Full Stack .NET Trainee
- This repo is mainly for personal learning and reference.
+**Amany Hisham**  
+Full Stack .NET Trainee | Software Engineer
+
+---
+
+⭐ This repository reflects my continuous learning journey and hands-on practice in software development.
