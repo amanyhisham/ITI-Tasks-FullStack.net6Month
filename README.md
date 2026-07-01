@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer+%F0%9F%92%BB;ITI+6-Month+Learning+Journey+%F0%9F%9A%80;Backend+%7C+Frontend+%7C+AI+%7C+SE+%F0%9F%A7%A0" alt="Typing SVG" />
 
@@ -38,16 +38,15 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Course / Topic | Folder |
 |---|-----------------|--------|
-| 1 | Object-Oriented Programming (OOP) | `OOP&C#` |
-| 2 | Advanced C# | `Advanced C#` |
-| 3 | LINQ | `Linq` |
-| 4 | Database Design & SQL Server | `DB&SQL` |
+| 1 | Database Design & SQL Server | `DB&SQL` |
+| 2 | Object-Oriented Programming (OOP) | `OOP&C#` |
+| 3 | Advanced C# | `Advanced C#` |
+| 4 | LINQ | `Linq` |
 | 5 | Entity Framework Core | `EntityFramWOrk` |
-| 6 | Design Patterns | `DesignPattern/Lap-DesignPattern` |
+| 6 | MVC Applications | `MVC` |
 | 7 | ASP.NET Core Web API | `WebApi` |
 | 8 | Advanced Web API | `Advanced Web API` |
-| 9 | MVC Applications | `MVC` |
-| 10 | SignalR (Real-Time Communication) | `SignalR` |
+| 9 | SignalR (Real-Time Communication) | `SignalR` |
 
 ---
 
@@ -55,13 +54,13 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Course / Topic | Folder |
 |---|-----------------|--------|
-| 1 | HTML5 | `HTML5&CSS3` |
-| 2 | CSS3 | `HTML5&CSS3` |
-| 3 | CSS Frameworks (Bootstrap, etc.) | `CSSFramWork` |
-| 4 | JavaScript (ES6+) | `ES6` |
-| 5 | Advanced JavaScript | `Advanced JavaScript` |
-| 6 | TypeScript | `TypeScript/Lap-D01` |
-| 7 | Client-Side Development | `ClientSide` |
+| 1 | Client-Side Development | `ClientSide` |
+| 2 | HTML5 | `HTML5&CSS3` |
+| 3 | CSS3 | `HTML5&CSS3` |
+| 4 | CSS Frameworks (Bootstrap, etc.) | `CSSFramWork` |
+| 5 | JavaScript (ES6+) | `ES6` |
+| 6 | Advanced JavaScript | `Advanced JavaScript` |
+| 7 | TypeScript | `TypeScript/Lap-D01` |
 | 8 | Angular Framework | `Angular Framework` |
 
 ---
@@ -71,7 +70,16 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 | # | Course / Topic | Folder |
 |---|-----------------|--------|
 | 1 | Data Structures & Algorithms | `DataStructure` |
-| 2 | Problem Solving | `problemSolving/Week1` |
+| 2 | Problem Solving (C++) | `problemSolving/Week1` |
+| 3 | Design Patterns | `DesignPattern/Lap-DesignPattern` |
+| 4 | Clean Architecture | `CleanArchitecture` |
+| 5 | Operating Systems, Networks & Software Engineering (Agile) | `OS&Networks` |
+| 6 | Docker | `Docker` |
+| 7 | C# Fundamentals | `CSharp-Fundamentals` |
+| 8 | Testing | `Testing` |
+| 9 | Cybersecurity Fundamentals | `CyberSecurity` |
+| 10 | Secure Coding | `SecureCoding` |
+| 11 | GitHub | `GitHub` |
 
 ---
 
@@ -118,7 +126,7 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Project | Folder |
 |---|---------|--------|
-| 1 | E-Commerce Project (Vanilla JS) | `WorkShops` |
+| 1 | E-Commerce Project (Vanilla JS) | `CSSFramWork` |
 | 2 | Angular Project | `Angular Framework` |
 | 3 | ES6 Project | `ES6` |
 | 4 | MVC Project | `MVC` |
