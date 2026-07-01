@@ -77,8 +77,8 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 | 6 | Docker | `Docker` |
 | 7 | C# Fundamentals | `CSharp-Fundamentals` |
 | 8 | Testing | `Testing` |
-| 9 | Cybersecurity Fundamentals | `CyberSecurity` |
-| 10 | Secure Coding | `SecureCoding` |
+| 9 | Cybersecurity Fundamentals | `WorkShops` |
+| 10 | Secure Coding | `WorkShops` |
 | 11 | GitHub | `GitHub` |
 
 ---
