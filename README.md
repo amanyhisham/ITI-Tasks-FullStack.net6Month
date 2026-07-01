@@ -13,6 +13,13 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
 
@@ -21,7 +28,7 @@
 ## 📖 About This Journey
 
 This repository documents my **6-month journey** in the **Information Technology Institute (ITI) – Full Stack .NET Development Program**.
-It contains my daily tasks, hands-on labs, assignments, mini-projects, full projects, and experiments across **backend, frontend, databases, AI-powered development, and software engineering soft skills**.
+It contains my daily tasks, hands-on labs, assignments, mini-projects, full projects, and experiments across **backend, frontend, databases, computer science fundamentals, AI-powered development, and software engineering soft skills**.
 
 The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG) with **professional development** (communication, presentation, CV writing, and workplace ethics) to build a well-rounded, job-ready Full Stack Developer.
 
@@ -31,17 +38,16 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Course / Topic | Folder |
 |---|-----------------|--------|
-| 1 | C# Programming | `Advanced C#` |
-| 2 | Object-Oriented Programming (OOP) | `OOP&C#` |
-| 3 | Data Structures & Algorithms | `DataStructure` |
-| 4 | LINQ | `Linq` |
-| 5 | ASP.NET Core Web API | `WebApi` |
-| 6 | Advanced Web API | 🔜 *Coming Soon* |
-| 7 | Entity Framework Core | `EntityFramWOrk` |
-| 8 | Design Patterns | `DesignPattern/Lap-DesignPattern` |
+| 1 | Object-Oriented Programming (OOP) | `OOP&C#` |
+| 2 | Advanced C# | `Advanced C#` |
+| 3 | LINQ | `Linq` |
+| 4 | Database Design & SQL Server | `DB&SQL` |
+| 5 | Entity Framework Core | `EntityFramWOrk` |
+| 6 | Design Patterns | `DesignPattern/Lap-DesignPattern` |
+| 7 | ASP.NET Core Web API | `WebApi` |
+| 8 | Advanced Web API | `Advanced Web API` |
 | 9 | MVC Applications | `MVC` |
-| 10 | SignalR (Real-Time Communication) | 🔜 *Coming Soon* |
-| 11 | Database Design & SQL Server | `DB&SQL` |
+| 10 | SignalR (Real-Time Communication) | `SignalR` |
 
 ---
 
@@ -49,13 +55,23 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Course / Topic | Folder |
 |---|-----------------|--------|
-| 1 | HTML5 & CSS3 | `HTML5&CSS3` |
-| 2 | CSS Frameworks (Bootstrap, etc.) | `CSSFramWork` |
-| 3 | JavaScript (ES6+) | `ES6` |
-| 4 | Advanced JavaScript | 🔜 *Coming Soon* |
-| 5 | TypeScript | `TypeScript/Lap-D01` |
-| 6 | Client-Side Development | `ClientSide` |
-| 7 | Angular Framework | 🔜 *Coming Soon* |
+| 1 | HTML5 | `HTML5&CSS3` |
+| 2 | CSS3 | `HTML5&CSS3` |
+| 3 | CSS Frameworks (Bootstrap, etc.) | `CSSFramWork` |
+| 4 | JavaScript (ES6+) | `ES6` |
+| 5 | Advanced JavaScript | `Advanced JavaScript` |
+| 6 | TypeScript | `TypeScript/Lap-D01` |
+| 7 | Client-Side Development | `ClientSide` |
+| 8 | Angular Framework | `Angular Framework` |
+
+---
+
+## 🧮 Computer Science Fundamentals
+
+| # | Course / Topic | Folder |
+|---|-----------------|--------|
+| 1 | Data Structures & Algorithms | `DataStructure` |
+| 2 | Problem Solving | `problemSolving/Week1` |
 
 ---
 
@@ -83,7 +99,6 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 | 5 | Communication Skills | `WorkShops` |
 | 6 | Business English Workshop | `WorkShops` |
 | 7 | Freelancing | `Freelancing` |
-| 8 | Problem Solving | `problemSolving/Week1` |
 
 ---
 
@@ -94,6 +109,8 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 | 1 | Docker Basics | `Docker` |
 | 2 | Git & GitHub | Repository-wide |
 | 3 | Postman (API Testing) | `WebApi` |
+| 4 | Visual Studio / VS Code | Repository-wide |
+| 5 | NuGet Package Manager | Repository-wide |
 
 ---
 
@@ -101,23 +118,18 @@ The training combined **technical depth** (C#, .NET, Angular, SQL Server, AI/RAG
 
 | # | Project | Folder |
 |---|---------|--------|
-| 1 | Graduation Project | `ITI_ProjectGraduation/Documention_Project` |
-| 2 | E-Commerce Project | `WorkShops` / `problemSolving/Week1` |
-
----
-
-## 📁 Repository Structure
-
-Just like my other repos, this one is organized to reflect real, hands-on learning:
-
-- 📌 Daily Tasks & Assignments
-- 🧪 Hands-on Labs
-- 💻 Mini Projects
-- 🚀 Full Projects (Web API + Angular + MVC)
-- 🧠 Problem Solving
-- ⚙️ Workshops
-- 🤖 AI & RAG Experiments
-- 🎓 Graduation Project
+| 1 | E-Commerce Project (Vanilla JS) | `WorkShops` |
+| 2 | Angular Project | `Angular Framework` |
+| 3 | ES6 Project | `ES6` |
+| 4 | MVC Project | `MVC` |
+| 5 | OOP Project | `OOP&C#` |
+| 6 | SQL Project | `DB&SQL` |
+| 7 | Web API + Angular Project | `WebApi` |
+| 8 | Fine-Tuning Project | `GenAI-PromptEngineer` |
+| 9 | Vibe Coding Chat Project | `GenAI-PromptEngineer` |
+| 10 | RAG Project | `GenAI-PromptEngineer` |
+| 11 | AI Agent Project | `GenAI-PromptEngineer` |
+| 12 | 🎓 Graduation Project – **Safe Trace** | `ITI_ProjectGraduation/Documention_Project` |
 
 ---
 
@@ -125,7 +137,7 @@ Just like my other repos, this one is organized to reflect real, hands-on learni
 
 - ✅ Completed daily tasks and labs across the full stack
 - ✅ Built full-stack real-world projects (API + Angular + MVC)
-- ✅ Practiced AI-powered development (RAG, Agents, Prompt Engineering)
+- ✅ Practiced AI-powered development (RAG, Agents, Fine-Tuning, Prompt Engineering)
 - ✅ Strengthened soft skills: presentation, communication, CV writing
 - ✅ Continuous improvement through practice and iteration
 
